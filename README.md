@@ -15,16 +15,27 @@ This project implements an AI-driven assistant powered by **Azure OpenAI’s GPT
 ## Project Structure
 
 Here’s a breakdown of the key files in the project:
-├── .gitignore                   # Git ignore file to exclude unnecessary files from version control
-├── assistant_with_function_calling.ipynb  # Jupyter notebook for developing and testing assistants with function calling
-├── assistants.py                # Python script defining assistant behaviors
-├── config.json                  # Configuration file containing API keys and settings
-├── config.py                    # Python script for loading and managing configurations
-├── core.py                      # Core logic and functionality of the GPT-4 assistant
-├── dark_sine.png                # A PNG image (possibly for documentation or UI purposes)
-├── main.py                      # Main script to run and deploy the project
-├── README.md                    # Project documentation (this file)
-├── scratchpad                   # A file or directory for miscellaneous notes or temporary work
+├── .gitignore                  
+├── assistant_with_function_calling.ipynb  
+├── assistants.py                
+├── config.json                 
+├── config.py                   
+├── core.py                      
+├── dark_sine.png                
+├── main.py                      
+├── README.md                   
+├── scratchpad  
+
+ ###### Git ignore file to exclude unnecessary files from version control
+ ###### Jupyter notebook for developing and testing assistants with function calling
+ ###### Python script defining assistant behaviors
+ ###### Configuration file containing API keys and settings
+ ###### Python script for loading and managing configurations
+ ###### Core logic and functionality of the GPT-4 assistant 
+ ###### A PNG image (possibly for documentation or UI purposes)
+ ###### Main script to run and deploy the project
+ ###### Project documentation (this file)
+ ###### A file or directory for miscellaneous notes or temporary work
 
 ## File Details
 
@@ -50,7 +61,7 @@ Here’s a breakdown of the key files in the project:
 1. **Clone the Repository** :
 
 ```
-git clone <repository_url>
+git clone (https://github.com/mphomathabathe/AGENTS)
 cd azure-gpt4-assistants 
 ```
 
